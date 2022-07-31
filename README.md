@@ -50,11 +50,6 @@ Feel free to update and send a pull request 😉
 
 Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
 
-## Authors
-
-* **Harsh Saglani** ( [ashawe](https://github.com/ashawe) ) - *Initial work* & *Frontend*
-* **Rutuja Dhanawade** ( [RutujaD182](https://github.com/RutujaD182) ) - *Backend*
-
 See also the list of [contributors](https://github.com/ashawe/CTF-Website-Template-2020/graphs/contributors) who participated in this project.
 
 ## License
